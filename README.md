@@ -1,2 +1,0 @@
-# Teun
-A robot dog

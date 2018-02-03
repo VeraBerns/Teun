@@ -1,7 +1,6 @@
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rcc.c
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h
 teun\stm32f7xx_hal_rcc.o: ../Inc/stm32f7xx_hal_conf.h
-teun\stm32f7xx_hal_rcc.o: ../Inc/main.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_rcc.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_def.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/CMSIS/Device/ST/STM32F7xx/Include/stm32f7xx.h
@@ -24,14 +23,15 @@ teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_dma_
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_cortex.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_adc.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_adc_ex.h
+teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_dma2d.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_flash.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_flash_ex.h
+teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_sdram.h
+teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_fmc.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_i2c.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_i2c_ex.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_ltdc.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_pwr.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_pwr_ex.h
-teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_sd.h
-teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_sdmmc.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart.h
 teun\stm32f7xx_hal_rcc.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart_ex.h
